@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" filepath="$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MasterDetailApp.iml" filepath="$PROJECT_DIR$/MasterDetailApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MasterDetailApp/MasterDetailApp-MasterDetailApp.iml" filepath="$PROJECT_DIR$/MasterDetailApp/MasterDetailApp-MasterDetailApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD.iml" filepath="$PROJECT_DIR$/MD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasterDetailApp/MasterDetailApp.iml" filepath="$PROJECT_DIR$/MasterDetailApp/MasterDetailApp.iml" />
     </modules>
   </component>
 </project>
